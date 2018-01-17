@@ -1,0 +1,8 @@
+[submodule "cisco-snmp-rce"]
+	path = cisco-snmp-rce
+	url = https://github.com/artkond/cisco-snmp-rce
+	branch = master
+[submodule "spectre-chrome"]
+	path = spectre-chrome
+	url = https://github.com/ascendr/spectre-chrome
+	branch = master
