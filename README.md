@@ -7,7 +7,7 @@ Cisco RCE Exploit submodule by artkond: https://github.com/artkond/cisco-snmp-rc
 
 JS Spectre Chrome POC by ascendr: https://github.com/ascendr/spectre-chrome
 
-Tested on a Cisco 1841 Router.
+Tested on a Cisco 1841+2600 Router.
 
 After running the RCE exploit. As config, run:
 
