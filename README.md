@@ -1,6 +1,8 @@
 # CiscoSpectreTakeover
 A **PoC** chain exploit using the recent Cisco SMP exploit (CVE-2017-6736) to chain into Spectre (CVE-2017-5753 and CVE-2017-5715)
 
+[![forthebadge](http://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](http://forthebadge.com)
+
 ## Credits
 
 Cisco RCE Exploit submodule by artkond: https://github.com/artkond/cisco-snmp-rce
